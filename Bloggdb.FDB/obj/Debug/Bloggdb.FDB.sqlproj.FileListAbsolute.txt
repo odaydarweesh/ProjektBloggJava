@@ -1,0 +1,10 @@
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\bin\Debug\Bloggdb.FDB.dacpac
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\bin\Debug\Bloggdb.FDB.dll
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\bin\Debug\Bloggdb.FDB.pdb
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\obj\Debug\Bloggdb.FDB.sqlproj.AssemblyReference.cache
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\obj\Debug\Model.xml
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\obj\Debug\refactor.xml
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\obj\Debug\postdeploy.sql
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\obj\Debug\predeploy.sql
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\obj\Debug\Bloggdb.FDB.dll
+c:\Users\oday_\OneDrive\Desktop\Studieprojekt Orebro\Projektredovisning\Blogg\Bloggdb.FDB\obj\Debug\Bloggdb.FDB.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YndgObgbEq8973vMVJLyleccW4p3N0RoLzI8r0adntdTBG6d/+EX717h6uIY0aUWbHCiQcJlvcAAc6hSW1mR1A==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\oday_\\OneDrive\\Desktop\\Studieprojekt Orebro\\Projektredovisning\\Blogg\\Bloggdb.FDB\\Bloggdb.FDB.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oday_\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\oday_\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
