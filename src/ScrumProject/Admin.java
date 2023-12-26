@@ -23,6 +23,7 @@ public class Admin extends javax.swing.JFrame {
     public Login login;
     public ResetPass reset;
     public static int id;
+    //fghghfgh
 
     public Admin(int id) {
         this.id = id;
