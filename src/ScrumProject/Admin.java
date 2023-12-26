@@ -23,13 +23,12 @@ public class Admin extends javax.swing.JFrame {
     public Login login;
     public ResetPass reset;
     public static int id;
-    //fghghfgh
-
+    
     public Admin(int id) {
         this.id = id;
         initComponents();
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-//Metoder som kontrollerar att databasuppkopplingen sker. Kontrollerar mot Mejl, Anst‰llningsID och Lˆsenord
+//Metoder som kontrollerar att databasuppkopplingen sker. Kontrollerar mot Mejl, Anst√§llningsID och L√∂senord
 //Admin kan loggas in. Om ja; loggas Admin in
 //Om nej kommer ett felmeddelande: 
         try {
@@ -58,7 +57,7 @@ public class Admin extends javax.swing.JFrame {
 
             fornamn = bloggdb.fetchSingle(sql);
         } catch (InfException e) {
-            System.out.print("Felmeddelande: Kan inte h‰mta information om Admin.");
+            System.out.print("Felmeddelande: Kan inte h√§mta information om Admin.");
         }
         return fornamn;
     }
@@ -79,7 +78,7 @@ public class Admin extends javax.swing.JFrame {
             String sql = bloggdb.fetchSingle("SELECT ANSTALLD.ADMINISTRATOR FROM ANSTALLD WHERE ANSTALLD.ANSTALLDID = '" + id + "'");
             typ = sql;
         } catch (InfException e) {
-            System.out.print("Felmeddelande: Kan inte h‰mta information om Admin.");
+            System.out.print("Felmeddelande: Kan inte h√§mta information om Admin.");
         }
         return typ;
     }
@@ -99,7 +98,7 @@ public class Admin extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(153, 153, 255));
 
-        jButton3.setText("St‰ng");
+        jButton3.setText("St√§ng");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton3ActionPerformed(evt);
@@ -141,7 +140,7 @@ public class Admin extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("V‰lkommen Admin");
+        jLabel1.setText("V√§lkommen Admin");
 
         Tillbacka.setText("Logga ut");
         Tillbacka.addActionListener(new java.awt.event.ActionListener() {
